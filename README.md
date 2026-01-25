@@ -1,11 +1,12 @@
 # Dream-Team
-This project is for the class of CSE4550.
 
-This is a commit push test for the master branch.
+Testing Commit Branches:
 
-This Should be updated Master
-
-ujkbhdsafiuhsdf
-lujhasdfbuohabdsfgouayhegsbdrffiouyg aerfuogbyaerf
-
-Mel is dumb
+1. Jerry - ✅
+2. Nathan - ❌
+3. Keith - ❌
+4. Manuel - ❌
+5. Brian - ❌
+6. Sayf - ❌
+7. Bryan - ❌
+8. Joshua - ❌
