@@ -5,8 +5,6 @@ This is a commit push test for the master branch.
 
 123
 
-This is a test from Jerry Branch
+THIS IS MASTER BRANCH 100% 
 
-
-
-This is Jerry Branch
+CMON
