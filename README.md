@@ -5,8 +5,4 @@ This is a commit push test for the master branch.
 
 123
 
-This is a test from Jerry Branch
-
-
-
-This is Jerry Branch
+THIS IS MASTER BRANCH 100%
