@@ -2,8 +2,6 @@
 
 Testing Commit Branches:
 
-1. Jerry - ✅
-2. Nathan - ✅
 1. Jerry - ✅✅✅
 2. Nathan - ❌
 3. Keith - ❌
