@@ -1,7 +1,7 @@
 # Dream-Team
 Testing Commit Branches:
 
-1. Jerry - ✅
+1. Jerry - ✅✅✅
 2. Nathan - ❌
 3. Keith - ❌
 4. Manuel - ❌
