@@ -1,4 +1,5 @@
 # Dream-Team
+
 Testing Commit Branches:
 
 1. Jerry - ✅✅✅
@@ -7,5 +8,5 @@ Testing Commit Branches:
 4. Manuel - ❌
 5. Brian - ❌
 6. Sayf - ❌
-7. Bryan - ❌
+7. Bryan - ✅
 8. Joshua - ❌
